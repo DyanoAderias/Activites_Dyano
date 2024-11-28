@@ -4,9 +4,9 @@
     border: 5px solid transparent;
     border-radius: 15px;
     padding: 30px;
-    background-color: rgb(144, 121, 121);
+    background-color: rgb(230, 255, 3);
     position: relative;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 15px rgba(121, 24, 160, 0.3);
 }
 
 
